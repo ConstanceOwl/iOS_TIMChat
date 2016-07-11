@@ -9,9 +9,9 @@
 因GitHub有文件大小限制，将IMSDK以及AVSDK上传到腾讯云COS上。
 更新时，请到对应的地址进行更新，并添加到工程下面对应的目录下
 
-IMSDK : http://tcshowsdks-10022853.cos.myqcloud.com/20160629/IMSDK.zip 下载后解压，然后再放至对应放到工程目录  TCShow/TIMChat/TCAdapter/TIMAdapter/Framework/IMSDK
+IMSDK : http://tcshowsdks-10022853.cos.myqcloud.com/20160629/IMSDK.zip 下载后解压，然后再放至对应放到工程目录  TIMChat/TCAdapter/TIMAdapter/Framework/IMSDK
 
-AVSDK : http://tcshowsdks-10022853.cos.myqcloud.com/20160629/Libs.zip  下载后解压，然后再放至对应放到工程目录  TCShow/TIMChat/TCAdapter/TCAVIMAdapter/Libs
+AVSDK : http://tcshowsdks-10022853.cos.myqcloud.com/20160629/Libs.zip  下载后解压，然后再放至对应放到工程目录  TIMChat/TCAdapter/TCAVIMAdapter/Libs
 
 TIMChat电话场景版本，跟随心播一样，处理了大量的异常情况，请开发者在编码过程中注意;
 更多文档信息请参考：https://github.com/zhaoyang21cn/iOS_Suixinbo
