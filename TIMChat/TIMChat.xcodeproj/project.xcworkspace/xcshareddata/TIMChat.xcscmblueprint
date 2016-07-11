@@ -1,5 +1,5 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8417ab44-c799-11e4-acac-0d5433960dbe++7792+++084CA97",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3A8319223041116A89D85DF78970E2BC5FB7D475+++C93A875",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "8417ab44-c799-11e4-acac-0d5433960dbe++5164+++8381E83" : {
 
@@ -12,20 +12,27 @@
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8417ab44-c799-11e4-acac-0d5433960dbe++7792+++084CA97" : 0,
     "8417ab44-c799-11e4-acac-0d5433960dbe++5164+++8381E83" : 0,
     "8417ab44-c799-11e4-acac-0d5433960dbe++5164+++3BC4BBA" : 0,
-    "8417ab44-c799-11e4-acac-0d5433960dbe++7792+++084CA97" : 0
+    "3A8319223041116A89D85DF78970E2BC5FB7D475+++C93A875" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57415FEA-0202-4223-A5A5-A7D4302F40BE",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8417ab44-c799-11e4-acac-0d5433960dbe++7792+++084CA97" : "TCShow\/",
     "8417ab44-c799-11e4-acac-0d5433960dbe++5164+++8381E83" : "TIMChat\/",
     "8417ab44-c799-11e4-acac-0d5433960dbe++5164+++3BC4BBA" : "TIMChat\/",
-    "8417ab44-c799-11e4-acac-0d5433960dbe++7792+++084CA97" : "TCShow\/"
+    "3A8319223041116A89D85DF78970E2BC5FB7D475+++C93A875" : "iOS_TIMChat\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "TIMChat",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TIMChat\/TIMChat.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhaoyang21cn\/iOS_TIMChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A8319223041116A89D85DF78970E2BC5FB7D475+++C93A875"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tc-svn.tencent.com\/bpf\/bpf_OpenSDK_rep",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
