@@ -1,0 +1,51 @@
+//
+//  TIMChat-Prefix.pch
+//  TIMChat
+//
+//  Created by AlexiChen on 16/1/29.
+//  Copyright © 2016年 AlexiChen. All rights reserved.
+//
+
+#ifndef TIMChat_Prefix_h
+#define TIMChat_Prefix_h
+
+#define kSupportCallScene 1
+// 是否为AppStore版本
+#define kAppStoreVersion 0
+#define kIsUseAVSDKAsLiveScene 1
+#define kSupportAVChatRoom 0
+
+
+#if DEBUG
+#define kAVSDKDefaultOpenMic 1
+#endif
+
+
+#ifndef kSdkAppId
+#define kSdkAppId       @"1400001533"
+#endif
+
+#ifndef kSdkAccountType
+#define kSdkAccountType @"792"
+#endif
+
+#define kAppBakgroundColor          RGB(240, 240, 240)
+
+// 是否支持富文本显示
+#define kTestChatAttachment 1
+
+#import "CommonLibrary.h"
+
+#import "TCAdapterHeader.h"
+
+#import "ImageHeader.h"
+
+#import "ConstHeader.h"
+
+#import "CustomUIHeader.h"
+
+#import "AppDelegate.h"
+
+#import "AppUIHeaders.h"
+
+#endif /* TIMChat_Prefix_h */
